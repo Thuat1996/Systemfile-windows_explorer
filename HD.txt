@@ -1,0 +1,2 @@
+Tai ve va cai dat nhu mot ung dung binh thuong Next -> Next -> Finish
+Luu y: may can set up day du thu vien .dll cua Microsoft Visual C++ Redistributable (x64/ x86)
